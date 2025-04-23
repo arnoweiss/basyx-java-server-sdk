@@ -13,7 +13,6 @@ on:
       - '.github/pull_request_template.md'
       - '.github/SECURITY.md'
       - 'docs/**'
-      - 'examples/**'
       - 'README.md'
       - '.gitattributes'
       - '.gitignore'
